@@ -25,7 +25,7 @@ You can access these files by clicking [here](https://github.com/akshay-joshi-25
 - Average Rating
 
 # 📊 **Vizualizations**
-## 1. Sales & Discount Trend (Line + Bar Chart) ##
+#### 1. Sales & Discount Trend (Line + Bar Chart) ####
 Tracks Sum of Selling Price (bar) and Average Discount % (line) by Year and Month across 2021–2022.
 Monthly sales consistently hover around ₹50K–₹100K, with relatively stable discount rates throughout the period.
 
