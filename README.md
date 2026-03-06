@@ -35,10 +35,15 @@ Orders are spread across multiple states including Bihar, Karnataka, Madhya Prad
 
 #### 3. Sales by Category (Donut Chart) ####
 Breaks total selling price into four categories:
+
 🔵 Men
+
 🟣 Women
+
 🟠 Kids
+
 🟤 Beauty
+
 Men and Women appear to be the dominant categories by revenue.
 
 #### 4. Sales by Brand (Horizontal Bar Chart) ####
