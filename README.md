@@ -2,10 +2,11 @@
 This dashboard provides a comprehensive view of Myntra's sales performance across products, brands, categories, geography, and time. It is built in Power BI and covers data spanning 2021, 2022, and the first quarter of 2023.
 
 # 📌 **Overview**
-This PowerBI dashboard contains three different sections:
+This PowerBI dashboard contains FOUR different sections:
 - High-level metrics
 - Vizualizations
 - Data Table
+- Filters
 
 # 📂 **Datasets**
 The datasets used for this project were publicly made available on Kaggle.
@@ -90,3 +91,13 @@ The data table includes the following columns:
 - **Sum of Selling Price** — Total sale value for the row
 - **Average Discount %** — Discount applied
 - **Ratings** — Customer rating (1–5)
+
+# 🎛️ **Filters**
+The dashboard also supports interactive filtering by:
+- Year
+- Month
+- State
+- Brand Name
+- Category
+- Sub-category
+- Product Name
