@@ -101,3 +101,6 @@ The dashboard also supports interactive filtering by:
 - Category
 - Sub-category
 - Product Name
+
+# 📷 **Dashboard Preview**
+![Dashboard - Myntra_page-0001](https://github.com/user-attachments/assets/e36a7cdd-898d-4494-aaa1-a9bc423b4fd0)
