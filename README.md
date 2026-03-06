@@ -75,3 +75,18 @@ Top sub-categories by revenue:
 - Makeup
 - Indian & Fusion Wear
 - Girls Clothing
+
+# 🧾 **Data Table**
+The data table at the bottom of the dashboard contains records at a transactional level allowing end users to investigate which specific transactions on a given time period are contributing to overall sales.
+The data table includes the following columns:
+- **Date** — Transaction date (e.g., Friday, 15 April, 2022)
+- **City** — Customer city
+- **State** — Customer state
+- **Brand Name** — Brand of the product
+- **Product Name** — Name of the product
+- **Category** — Men / Women / Kids / Beauty
+- **Sub-category** — E.g., Footwear, Topwear, Bottomwear
+- **Color** — Product color
+- **Sum of Selling Price** — Total sale value for the row
+- **Average Discount %** — Discount applied
+- **Ratings** — Customer rating (1–5)
